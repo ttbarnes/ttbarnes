@@ -1,7 +1,5 @@
-## Hi! I'm Tony 👋
-
-- ✨ Lead developer, full stack JavaScript
-- 👀 Well versed with NodeJS, GraphQL, re-platforming, integrations, React, NextJS, TypeScript, Cypress, many more
+- 👋 Lead developer, Full Stack JavaScript
+- ✨ Well versed with NodeJS, GraphQL, re-platforming, integrations, React, NextJS, TypeScript, Cypress, many more
 - 💬 Ask me about iterative development or DRY E2E test assertions
 - 📫 How to reach me: tony[at]tonybarnes.me
 
