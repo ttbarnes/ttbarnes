@@ -1,4 +1,4 @@
-- 👋 Lead developer, Full Stack JavaScript
+- 👋 Lead developer, Full Stack JavaScript, TypeScript
 - ✨ Well versed with NodeJS, GraphQL, re-platforming, integrations, React, NextJS, TypeScript, Cypress, many more
 - 💬 Ask me about iterative development, re-platforming, digital transformation, DRY E2E test assertions, accessibility
 - 📫 How to reach me: tony[at]tonybarnes.me
